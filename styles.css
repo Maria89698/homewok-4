@@ -42,3 +42,6 @@
     line-height: 19px;
     color: #626262;
 }
+.no_style{
+    list-style: none;
+}
